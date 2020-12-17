@@ -1,2 +1,5 @@
 # hello-world
-Just a nice little practice run.
+
+Just trying github out.
+
+CIS student working to get a better, well-rounded education. 
